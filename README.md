@@ -41,8 +41,6 @@ chat, cargo, banip, kick, user, membros, servidor, perfil, servidor info, credit
 
 ```
 
-```bash
-
 ##
 
 <h1 align="center"> 🤝 Contribuições e Feedback</h1>
