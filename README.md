@@ -122,19 +122,7 @@ prefixo do bote + e /
 
 <h1 align="center">📬 Suporte de Site</h1>
 
-<h3 align="center">Contato</h3>
+<h3 align="center">Se tiver dúvidas ou sugestões, entre em contato: </h3>
 
 <h3 align="center">https://dsc.gg/gabrimx7</h3>
 
-##
-
-<h3 align="center">📬 Contato 
-</h3>
-
-<h3 align="center">Se tiver dúvidas ou sugestões, entre em contato: </h3>
-
-<h3 align="center">  </h3>
-
-  - E-mail : [gabrimx7@example.com](gabrimx7@example.com)
-
-  - Redes Sociais : [Seu Perfil](https://bio.link/gabrimx7)
