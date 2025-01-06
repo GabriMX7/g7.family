@@ -4,6 +4,8 @@
 
 <h3 align="center">Olá! Este é um bot de administração para servidores públicos iniciantes. Ele foi criado para te ajudar a automatizar tarefas e otimizar a gestão do seu servidor. Espero que você aproveite!</h3>
 
+<h3 align="center">G7 Family</h3>
+
 <div align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/img/gabrimx7.png" width='800'>
 </div>
