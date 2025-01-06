@@ -119,14 +119,6 @@ prefixo do bote + e /
 
 ##
 
-<h1 align="center">🐣 Créditos de Site</h1>
-
-<h3 align="center">Creditos de Site</h3>
-
-<h3 align="center">https://github.com/GabriMX7</h3>
-
-##
-
 <h3 align="center">📬 Contato 
 </h3>
 
