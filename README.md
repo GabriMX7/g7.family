@@ -31,6 +31,12 @@
 
 ```/ajuda```
 
+```bash
+
+/ajuda +ajuda
+
+```
+
 ##
 
 <h1 align="center"> 🤝 Contribuições e Feedback</h1>
