@@ -7,7 +7,7 @@
 <h3 align="center">G7 Family</h3>
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/img/gabrimx7.png" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/asset2.svg" width='800'>
 </div>
 
 <h2 align="center"></h2>
