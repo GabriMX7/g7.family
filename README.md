@@ -30,7 +30,7 @@
 </h3>
 
 <h3 align="center">
-  Website For <a href = "https://discordbotlist.com/bots/doge-memer">Doge Memer Discord Bot</a>
+  Link do bote<a href = "https://discord.com/oauth2/authorize?client_id=1044139997265141830">Discord Bot</a>
 </h3>
 
 ```bash
