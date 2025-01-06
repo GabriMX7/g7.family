@@ -21,7 +21,7 @@
 ##
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/img/loga1.png" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/asset3.svg" width='800'>
 </div>
 
 ##
