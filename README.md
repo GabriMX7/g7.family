@@ -29,6 +29,10 @@
 <h3 align="center">😁 logo abaixo vou deixar apenas comandos do bote
 </h3>
 
+<h3 align="center">
+  Website For <a href = "https://discordbotlist.com/bots/doge-memer">Doge Memer Discord Bot</a>
+</h3>
+
 ```bash
 
 prefixo do bote + e /
