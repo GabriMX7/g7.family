@@ -120,8 +120,9 @@ prefixo do bote + e /
 - Participe do nosso Discord para compartilhar ideias e colaborar com a comunidade.  </h3>
 
 
+##
 
-<h1 align="center">📬 Suporte de Site</h1>
+<h2 align="center">📬 Suporte de Site</h2>
 
 <h3 align="center">Se tiver dúvidas ou sugestões, entre em contato: </h3>
 
