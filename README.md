@@ -31,7 +31,7 @@
 
 ```bash
 
-/ajuda 
+prefixo do bote + e /
 
 ```
 
