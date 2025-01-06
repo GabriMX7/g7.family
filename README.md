@@ -6,6 +6,11 @@
 
 <h3 align="center">G7 Family</h3>
 
+##
+
+<h3 align="center">logo abaixo vou deixar apenas comando 
+</h3>
+
 <div align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="assets/asset2.svg" width='800'>
 </div>
