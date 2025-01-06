@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Olá Seja Bem Vinda A Página Do Site ao bote</h1>
+<h1 align="center">⚡ Olá Seja Bem Vinda A Página Do Site do bote</h1>
 <h3 align="center">Site no Github 
 </h3>
 
