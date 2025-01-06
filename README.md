@@ -34,7 +34,11 @@
 prefixo do bote + e /
 
 ```
+```bash
 
+/ajuda
+
+```
 ```bash
 
 +chat
@@ -43,6 +47,56 @@ prefixo do bote + e /
 ```bash
 
 +cargo
+
+```
+```bash
+
++banip
+
+```
+```bash
+
++kick
+
+```
+```bash
+
++user
+
+```
+```bash
+
++membros
+
+```
+```bash
+
++servidor
+
+```
+```bash
+
++server info
+
+```
+```bash
+
++perfil
+
+```
+```bash
+
++creditos
+
+```
+```bash
+
++site
+
+```
+```bash
+
++canal +flood
 
 ```
 
