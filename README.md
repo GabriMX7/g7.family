@@ -26,7 +26,7 @@
 
 ##
 
-<h3 align="center">logo abaixo vou deixar apenas comandos 
+<h3 align="center">logo abaixo vou deixar apenas comandos do bote
 </h3>
 
 ##
