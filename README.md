@@ -29,13 +29,19 @@
 <h3 align="center">😁 logo abaixo vou deixar apenas comandos do bote
 </h3>
 
-```/ajuda```
+```bash
+
+/ajuda 
+
+```
 
 ```bash
 
-/ajuda +ajuda
+chat, cargo, banip, kick, user, membros, servidor, perfil, servidor info, creditos, site, canal,flood
 
 ```
+
+```bash
 
 ##
 
