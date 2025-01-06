@@ -37,7 +37,12 @@ prefixo do bote + e /
 
 ```bash
 
-chat, cargo, banip, kick, user, membros, servidor, perfil, servidor info, creditos, site, canal,flood
++chat
+
+```
+```bash
+
++cargo
 
 ```
 
