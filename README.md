@@ -1,5 +1,5 @@
 <h2 align="center">🏷️ Olá Seja Bem Vinda A Página Do Site do bote</h2>
-<h3 align="center">Site no Github 
+<h3 align="center">Aproveite A Funcionalidade Do Bote 
 </h3>
 
 <h3 align="center">Olá! Este é um bot de administração para servidores públicos iniciantes. Ele foi criado para te ajudar a automatizar tarefas e otimizar a gestão do seu servidor. Espero que você aproveite!</h3>
