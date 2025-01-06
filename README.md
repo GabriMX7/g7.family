@@ -111,7 +111,7 @@ prefixo do bote + e /
 
 ##
 
-<h3 align="center"> 🤝 Contribuições e Feedback</h3>
+<h2 align="center"> 🤝 Contribuições e Feedback</h2>
 
 <h3 align="center">Sua opinião é importante para nós!
 
